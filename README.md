@@ -258,8 +258,6 @@ constructeur-->
 </beans>
 ```
  Exécution :
-
- Exécution :
 <br>
 ![image](https://user-images.githubusercontent.com/72650429/235990517-fa372c3f-631e-4193-8bac-6eeb8ef0de2d.png)
 
@@ -287,6 +285,9 @@ System. _out_ .println("L'age est : " +metier.calcul()+" ans ");
 
 }}
 ```
+ Exécution :
+<br>
+
 En conclusion, l'inversion de contrôle et l'injection de dépendances sont deux concepts
 
 fondamentaux en programmation orientée objet et en développement logiciel en général. En
