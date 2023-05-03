@@ -287,6 +287,7 @@ System. _out_ .println("L'age est : " +metier.calcul()+" ans ");
 ```
  Exécution :
 <br>
+![image](https://user-images.githubusercontent.com/72650429/235991164-6f9c9547-c5bb-4079-9652-6a5ad1e06d40.png)
 
 En conclusion, l'inversion de contrôle et l'injection de dépendances sont deux concepts
 
