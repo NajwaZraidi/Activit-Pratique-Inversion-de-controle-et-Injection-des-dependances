@@ -259,6 +259,9 @@ constructeur-->
 ```
  Exécution :
 
+ Exécution :
+<br>
+![image](https://user-images.githubusercontent.com/72650429/235990517-fa372c3f-631e-4193-8bac-6eeb8ef0de2d.png)
 
 - Version annotations
 ```
