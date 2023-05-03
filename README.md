@@ -169,6 +169,7 @@ System. out .println("L\'age est : " +metier.calcul()+" ans
 }
 ```
  Exécution :
+<br>
 ![image](https://user-images.githubusercontent.com/72650429/235988260-5f90e194-b104-4dbd-a999-78d3ee369747.png)
 
 b. Par instanciation dynamique
@@ -216,6 +217,7 @@ System. _out_ .println("L\'age est : " +metier.calcul()+" ans
 
 ```
  Exécution :
+<br>
 ![image](https://user-images.githubusercontent.com/72650429/235988933-33f25f2e-f5a6-492f-ab63-7c2de166df8a.png)
 
 c. En utilisant le Framework Spring
